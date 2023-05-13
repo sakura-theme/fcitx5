@@ -1,5 +1,5 @@
 # sakura for Fcitx5
-sakura theme for Fcitx5.
+🌸 sakura theme for Fcitx5
 
 ![screenshot](https://github.com/sakura-theme/fcitx5/blob/main/screenshot.png)
 
